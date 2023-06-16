@@ -8,17 +8,17 @@ Book registration, student registration, book escrow and book return transaction
 It's created as a windows desktop application using Java Swing on Apache platform and using MySQL as database.
 Created by YusufUguz
 
-Giriş Ekranı/Login Page
-!(./girisekrani.JPG)
-Anasayfa/Home
-!(./anasayfa.JPG)
-Kitap İşlemleri Ekranı/Book Registration
-!(./kitapislemleri.JPG)
-Öğrenci İşlemleri Ekranı/Student Registration
-!(./ogrenciislemleri.JPG)
-Emanet İşlemleri Ekranı/Book Escrow
-!(./emanet.JPG)
-İade İşlemleri Ekranı/Book Return
-!(./iade.JPG)
+Giriş Ekranı/Login Page<br/>
+![login](./girisekrani.JPG)<br/>
+Anasayfa/Home<br/>
+![home](./anasayfa.JPG)<br/>
+Kitap İşlemleri Ekranı/Book Registration<br/>
+![books](./kitapislemleri.JPG)<br/>
+Öğrenci İşlemleri Ekranı/Student Registration<br/>
+![student](./ogrenciislemleri.JPG)<br/>
+Emanet İşlemleri Ekranı/Book entrust<br/>
+![entrust](./emanet.JPG)<br/>
+İade İşlemleri Ekranı/Book Return<br/>
+![return](./iade.JPG)
 
 
